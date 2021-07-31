@@ -1,3 +1,5 @@
-new.txt
+new.txt 
+new change
+this is the line to check diff command
 This is my second time git practice first file
 This is modification i am doing in this file.
